@@ -39,7 +39,4 @@ Here are some of the projects I've worked on:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaanbanjara&show_icons=true&locale=en&layout=compact" alt="UmaanBanjara" />
-</p>
 
