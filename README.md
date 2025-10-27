@@ -2,10 +2,7 @@
 <h3 align="center">I am a Flutter and FastAPI developer from Nepal, passionate about building mobile apps and APIs with modern technologies.</h3>
 
 - 🔭 I’m currently working on **Dhadda**  
-- 🌱 I’m currently learning **Everything**  
-- 💬 Ask me about **Flutter**, **FastAPI**  
 - 📫 How to reach me: [umaanbanjara@gmail.com](mailto:umaanbanjara@gmail.com)  
-- ⚡ Fun fact: **MerseySide is RED**  
 
 ---
 
