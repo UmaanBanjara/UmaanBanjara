@@ -38,3 +38,7 @@ Here are some of the projects I've worked on:
 </p>
 
 ---
+
+### 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=UmaanBanjara&label=Visitor%20Count&color=blue&style=flat-square)
