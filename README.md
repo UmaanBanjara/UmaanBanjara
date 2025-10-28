@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umaan Banjara</h1>
-<h3 align="center">I am a Flutter and FastAPI developer from Nepal , I code Flutter and FastAPI.</h3>
+<h3 align="center">I code Flutter and FastAPI.</h3>
 
 - 🔭 I’m currently working on **Dhadda**  
 - 📫 How to reach me: [umaanbanjara@gmail.com](mailto:umaanbanjara@gmail.com)  
